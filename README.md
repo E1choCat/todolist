@@ -17,7 +17,10 @@
    ```bash  
    git clone https://github.com/EtchoCat/todolist.git
 2.进入项目内部
-  cd todolist  
+   cd todolist 
+  
 3.运行java程序
-javac TodoList.java  
-java TodoList  
+
+   javac TodoList.java
+
+   java TodoList  
